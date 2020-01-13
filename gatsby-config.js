@@ -19,6 +19,12 @@ module.exports = {
         icon: config.manifestIcon, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-156182897-1',
+      },
+    },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
   ],
