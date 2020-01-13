@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Kafil Nasdami', // <title>
-  manifestName: 'Identity',
+  manifestName: 'KafilNasdamiResume',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
