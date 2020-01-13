@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-identity",
+  "name": "portfolio",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Identity by HTML5 UP",
+  "description": "A simple link with my socials",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-identity.git"
+    "url": "git+https://github.com/Kafiil/portfolio.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Kafil Nasdami",
+    "email": "kafil.nasdami@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.4.3",
@@ -36,13 +36,10 @@
     "rimraf": "^2.6.3"
   },
   "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-identity"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-identity/issues"
+    "url": "https://github.com/Kafiil/portfolio/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-identity#readme"
+  "homepage": "https://github.com/Kafiil/portfolio#readme"
 }
