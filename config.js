@@ -15,17 +15,17 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/kafiil',
+      url: 'https://github.com/kafiln',
     },
     {
       icon: 'fa-linkedin',
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/nkafil/',
+      url: 'https://www.linkedin.com/in/kafiln/',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/Kaaafiiil',
+      url: 'https://twitter.com/kafiiil',
     },
     {
       icon: 'fa-envelope-o',
